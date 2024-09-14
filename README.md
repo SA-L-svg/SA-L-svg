@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SA-L-svg
-- 👀 I’m interested in python developer
+- 👀 I’m interested in Software developer
 - 🌱 I’m currently learning django framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ou team
+- 📫 How to reach me 
 
 <!---
 SA-L-svg/SA-L-svg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
