@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SA-L-svg
 - 👀 I’m interested in Software developer
 - 🌱 I’m currently working as Seo executive and training in Frontend technologies{html,css,js}
-- 💞️ I’m looking to collaborate on ou team
+- 💞️ I’m looking to collaborate on our team
 - 📫 How to reach me 
 
 <!---
